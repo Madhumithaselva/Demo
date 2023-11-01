@@ -1,4 +1,6 @@
 # Demo
 Demo repository for Git learning
 Hello, World!
-THis is my first file in Github.
+This is my first file in Github.
+One
+Two
